@@ -7,6 +7,8 @@
 | targa                         | CHAR(7)      | UNIQUE, NOT NULL                | Index       |
 | anno_immatricolazione         | YEAR         | NOT NULL                        |             |
 | numero_proprietari_precedenti | TINYINT      | DEFAULT(1), UNSIGNED, NOT NULL  |             |
+| condizioni                    | VARCHAR(20)  | NOT NULL                        |             |
+| scadenza_revisione            | DATE         | NOT NULL                        |             |
 | chilometraggio                | INT          | UNSIGNED, NOT NULL              |             |
 | alimentazione                 | VARCHAR(10)  | DEFAULT 'Benzina', NOT NULL     |             |
 | cilindrata_cc                 | INT          | NOT NULL                        |             |
