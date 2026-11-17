@@ -1,6 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
-# 🎓 Exercise 46/50 - First Database
+# 🎓 Exercise 46/50: First Database
 
 Model a database table to store information about used cars available for sale at a car dealership. Define a suitable structure to organize and manage vehicle data.
 
