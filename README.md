@@ -8,7 +8,7 @@ Model a database table to store information about used cars available for sale a
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| db-first | First Database | Exercise | Relational database design & Data modeling | 46/50 |
+| db-first | First Database | Exercise | Relational database & Data modeling | 46/50 |
 
 ## Assignment
 
